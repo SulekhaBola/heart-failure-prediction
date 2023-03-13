@@ -1,5 +1,5 @@
-# ticket-reservation
-Live concert ticket reservation system
+# heart failure prediction
+heart failure prediction using ml
 
 Module required for UI - PyQt5
 Data set details
